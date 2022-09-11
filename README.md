@@ -35,6 +35,9 @@ $ npm install
 ## Running the app
 
 ```bash
+# run with config dev
+$ STAGE=dev npm run start:dev
+
 # development
 $ npm run start
 
